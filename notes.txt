@@ -1,0 +1,3 @@
+4.21 @ 10pm
+
+novelty_images_picDescription are generated only from image description NOT including Reddit title (tweet)
